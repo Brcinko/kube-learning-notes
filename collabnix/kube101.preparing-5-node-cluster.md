@@ -4,8 +4,8 @@ Since Play With Kubernetes is unstable anymore, it is recommended to use local M
 
 Tutorials:
 
-https://minikube.sigs.k8s.io/docs/tutorials/multi_node/#hello-deployment.yaml
-https://medium.com/womenintechnology/create-a-3-node-kubernetes-cluster-with-minikube-8e3dc57d6df2
+- https://minikube.sigs.k8s.io/docs/tutorials/multi_node/#hello-deployment.yaml
+- https://medium.com/womenintechnology/create-a-3-node-kubernetes-cluster-with-minikube-8e3dc57d6df2
 
 I will use 5-node minikube cluster:
 
